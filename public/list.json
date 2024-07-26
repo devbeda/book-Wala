@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "book 1",
+    "title": " lorem eh7 te aye",
+    "price": 0,
+    "type":"Free",
+    "category": "Thriler",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 2,
+    "name": "book 2",
+    "title": " lorem e tuyegyu yt t",
+    "price": 100,
+    "type":"Paid",
+    "category": "Suspense",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 3,
+    "name": "book 3",
+    "title": " lorem ajjhiu yuirufs e",
+    "price": 0,
+    "type":"Free",
+    "category": "Sports",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 4,
+    "name": "book 4",
+    "title": " lorem ermn tej auyel er",
+    "price": 500,
+    "type":"Paid",
+    "category": "thriler",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 5,
+    "name": "book 5",
+    "title": " lorem asin yeiu ejh f hf",
+    "price": 0,
+    "type":"Free",
+    "category": "Horror",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 6,
+    "name": "book 6",
+    "title": " lorem awlhwui oooh  yeb shu",
+    "price": 30,
+    "type":"Paid",
+    "category": "Drama",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 7,
+    "name": "book 7",
+    "title": " lorem uh dgwsd s dtrb hei sv",
+    "price": 0,
+    "category": "Drama",
+    "type":"Free",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 8,
+    "name": "book 8",
+    "title": " lorem dsfsdfsfsf fds ",
+    "price": 220,
+    "type":"Paid",
+    "category": "Romance",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "book 9",
+    "title": " lorem hash bets diokm e ",
+    "price": 0,
+    "type":"Free",
+    "category": "Horror",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  },{
+    "id": 10,
+    "name": "book 10",
+    "title": " lorem hash bets diokm e ",
+    "price": 0,
+    "type":"Free",
+    "category": "Horror",
+    "image": "https://cdn.pixabay.com/photo/2024/06/16/15/23/book-8833643_1280.jpg"
+  }
+]
